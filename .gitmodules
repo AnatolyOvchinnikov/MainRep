@@ -1,0 +1,3 @@
+[submodule "modules/SubModule"]
+	path = modules/SubModule
+	url = git://github.com/AnatolyOvchinnikov/SubModule
